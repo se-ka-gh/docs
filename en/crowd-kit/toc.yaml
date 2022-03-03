@@ -4,6 +4,7 @@ items:
   - name: Reference
     expanded: true
     include:
+      expanded: true
       path: reference/toc.yaml
       mode: link
 base: en
